@@ -1,0 +1,15 @@
+@import "~bootstrap/scss/bootstrap";
+
+$primary: #FF7559;
+$secondary: #FF512C;
+$info: #FFC4B8;
+
+body {
+    background-color: $info;
+}
+
+header {
+    background-color: $primary;
+}
+
+
